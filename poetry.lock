@@ -2856,13 +2856,13 @@ tests = ["pytest", "pytest-cov"]
 
 [[package]]
 name = "teslajsonpy"
-version = "3.9.8"
+version = "3.9.9"
 description = "A library to work with Tesla API."
 optional = false
 python-versions = ">=3.7,<4.0"
 files = [
-    {file = "teslajsonpy-3.9.8-py3-none-any.whl", hash = "sha256:857d2e9847a532d12adefcaf4e4a6a68c7c25f292c1f2dc4975cdbf440860201"},
-    {file = "teslajsonpy-3.9.8.tar.gz", hash = "sha256:f6fec1140eb5705d2a5690ac705309f124c037da303a7d323af5605893545abc"},
+    {file = "teslajsonpy-3.9.9-py3-none-any.whl", hash = "sha256:857d2e9847a532d12adefcaf4e4a6a68c7c25f292c1f2dc4975cdbf440860201"},
+    {file = "teslajsonpy-3.9.9.tar.gz", hash = "sha256:f6fec1140eb5705d2a5690ac705309f124c037da303a7d323af5605893545abc"},
 ]
 
 [package.dependencies]
